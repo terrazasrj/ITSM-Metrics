@@ -1,0 +1,69 @@
+{
+  "status": "Successful",
+  "message": "Successfully retrieved workgroup information.",
+  "workgroup_info": [
+    {
+      "incident_details": {
+        "number": "INC030500658",
+        "created_by": "srv.axp.incident.cru"
+      },
+      "incident_state": {},
+      "incident_routing": {
+        "assignment_group": "InfraBot_Support"
+      },
+      "caller": {},
+      "category": {},
+      "configuration": {},
+      "related_data": {
+        "situation_id": "",
+        "problem_number": "",
+        "source_name": "",
+        "source_id": "",
+        "fixed_by_change": "",
+        "url": "https://connectamex.service-now.com/incident.do?sysparm_query=number=INC030500658"
+      }
+    },
+    {
+      "incident_details": {
+        "number": "INC030499940",
+        "created_by": "Dipanjan Mukhopadhyay (3f25c)"
+      },
+      "incident_state": {},
+      "incident_routing": {
+        "assignment_group": "InfraBot_Support"
+      },
+      "caller": {},
+      "category": {},
+      "configuration": {},
+      "related_data": {
+        "situation_id": "",
+        "problem_number": "",
+        "source_name": "",
+        "source_id": "",
+        "fixed_by_change": "",
+        "url": "https://connectamex.service-now.com/incident.do?sysparm_query=number=INC030499940"
+      }
+    },
+    {
+      "incident_details": {
+        "number": "INC030490786",
+        "created_by": "srv.axp.incident.cru"
+      },
+      "incident_state": {},
+      "incident_routing": {
+        "assignment_group": "InfraBot_Support"
+      },
+      "caller": {},
+      "category": {},
+      "configuration": {},
+      "related_data": {
+        "situation_id": "",
+        "problem_number": "",
+        "source_name": "",
+        "source_id": "",
+        "fixed_by_change": "",
+        "url": "https://connectamex.service-now.com/incident.do?sysparm_query=number=INC030490786"
+      }
+    }
+  ]
+}
