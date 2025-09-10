@@ -1,0 +1,48 @@
+{
+  "status": "Successful",
+  "message": "Successfully retrieved workgroup information.",
+  "workgroup_info": [
+    {
+      "incident_details": {
+        "number": "INC030493554",
+        "created_by": "Jason Lucas (9154c)"
+      },
+      "incident_state": {},
+      "incident_routing": {
+        "assignment_group": "Infrastructure_Monitoring"
+      },
+      "caller": {},
+      "category": {},
+      "configuration": {},
+      "related_data": {
+        "situation_id": "",
+        "problem_number": "",
+        "source_name": "",
+        "source_id": "",
+        "fixed_by_change": "",
+        "url": "https://connectamex.service-now.com/incident.do?sysparm_query=number=INC030493554"
+      }
+    },
+    {
+      "incident_details": {
+        "number": "INC030485431",
+        "created_by": "srv.axp.incident.cru"
+      },
+      "incident_state": {},
+      "incident_routing": {
+        "assignment_group": "Infrastructure_Monitoring"
+      },
+      "caller": {},
+      "category": {},
+      "configuration": {},
+      "related_data": {
+        "situation_id": "",
+        "problem_number": "",
+        "source_name": "",
+        "source_id": "",
+        "fixed_by_change": "",
+        "url": "https://connectamex.service-now.com/incident.do?sysparm_query=number=INC030485431"
+      }
+    }
+  ]
+}
